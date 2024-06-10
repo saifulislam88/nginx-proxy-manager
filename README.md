@@ -1,8 +1,11 @@
 ## Nginx proxy manager install using bash script in Linux
 
 [Create the Script](https://github.com/saifulislam88/nginx-proxy-manager/tree/main?tab=readme-ov-file#1-create-the-script)
+
 [Make the Script Executable](https://github.com/saifulislam88/nginx-proxy-manager/tree/main?tab=readme-ov-file#2make-the-script-executable)
+
 [Run the Script]
+
 [Access Nginx Proxy Manager]
 
 
