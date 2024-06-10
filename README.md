@@ -15,8 +15,7 @@
 
 Save the following script as `nginx-proxy-manager-install.sh`:
 
-     ```bash
-     
+
      #!/bin/bash
    
      # Nginx Proxy Manager Install Script | Copyright 2024, Md. Saiful Islam(mSI)
