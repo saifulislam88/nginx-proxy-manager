@@ -1,4 +1,4 @@
-## Nginx proxy manager install using bash script in Linux
+## Nginx proxy manager install using bash script in Linux | Docker Based Installation
 
 **To install the Nginx Proxy Manager, follow these steps using the provided script:**
 
@@ -13,7 +13,7 @@
 
 ### **1. Create the Script:**
 
-Save the following script as `nginx-proxy-manager-install.sh`:
+Save the following script as `nginx-proxy-manager-install.sh`
 
 
      #!/bin/bash
